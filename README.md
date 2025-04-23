@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-
+<img height="180em" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX_coBRL75LZbqDVzIlnDyWwVzyfCuAf4ERw&s"/>

@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <h2>Curso De Engenharia Da Computação💻</h2>
-<p>Bem-Vindo, eu sou o aluno José Ediney é estou cursando a Engenharia Da Computação</p>
+<p>Bem-Vindo, eu sou o aluno José Ediney é estou cursando a faculdade de Engenharia Da Computação.</p>
 <h3>Ferramentas De Trabalho🔧</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🔭 Atualmente não estou trabalhando
 - 🌱 Atualmente estou aprendendo Java, c++, MySql, Html, CSS, JavaScript e Python
 - 👯 Estou procurando colaborar em projetos ou trabalhos
-- 🤔 Estou procurando ajuda com códigos, Linguagens de Programação
+- 🤔 Estou procurando ajudar com códigos e Linguagens de Programação
 - 💬 Pergunte-me sobre assuntos de programacação
 - ⚡ Curiosidade: Sabia que o nome Python não veio da "cobra" e sim de um grupo de comédia humorístico de humor duvidoso?
 <h2>Curso De Engenharia Da Computação💻</h2>

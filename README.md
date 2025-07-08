@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Atualmente não estou trabalhando
+- 🔭 Atualmente não estou trabalhando, eu estou estudando, mas aceito ser contratado.
 - 🌱 Atualmente estou aprendendo Java, c++, MySql, Html, CSS, JavaScript e Python
 - 👯 Estou procurando colaborar em projetos ou trabalhos
 - 🤔 Estou procurando ajudar com códigos e Linguagens de Programação

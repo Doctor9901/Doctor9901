@@ -3,7 +3,7 @@
 ## Sobre mim:
 
 - 🔭 Atualmente não estou trabalhando, eu estou estudando.
-- 🌱 Atualmente estou aprendendo Java, c++, MySql, Html, CSS, JavaScript e Python.
+- 🌱 Atualmente estou aprendendo Java, C++, MySql, HTML, CSS, JavaScript e Python.
 - 👯 Estou procurando colaborar em projetos ou trabalhos.
 - 🤔 Estou procurando ajudar com códigos e Linguagens de Programação.
 - 💬 Pergunte-me sobre assuntos de programacação.

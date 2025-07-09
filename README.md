@@ -1,7 +1,7 @@
 ## Ola Tudo Bom? 👋
 **Doctor9901/Doctor9901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Sobre mim:
 
 - 🔭 Atualmente não estou trabalhando, eu estou estudando.
 - 🌱 Atualmente estou aprendendo Java, c++, MySql, Html, CSS, JavaScript e Python
@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - 🤔 Estou procurando ajudar com códigos e Linguagens de Programação
 - 💬 Pergunte-me sobre assuntos de programacação
 - ⚡ Curiosidade: Sabia que o nome Python não veio da "cobra" e sim de um grupo de comédia humorístico de humor duvidoso?
+
 <h2>Curso De Engenharia Da Computação💻</h2>
 <p>Bem-Vindo, eu sou o aluno José Ediney é estou cursando a faculdade de Engenharia Da Computação.</p>
 <h3>Ferramentas De Trabalho🔧</h3>

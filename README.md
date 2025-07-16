@@ -2,11 +2,7 @@
 
 ## Sobre mim:
 
-- 🔭 Atualmente não estou trabalhando, eu estou estudando.
 - 🌱 Atualmente estou aprendendo Java, C++, MySql, HTML, CSS, JavaScript e Python.
-- 👯 Estou procurando colaborar em projetos ou trabalhos.
-- 🤔 Estou procurando ajudar com códigos e Linguagens de Programação.
-- 💬 Pergunte-me sobre assuntos de programacação.
 - ⚡ Curiosidade: Sabia que o nome Python não veio da "cobra" e sim de um grupo de comédia humorístico de humor duvidoso?.
 
 ## <h2>Curso De Engenharia Da Computação💻</h2>
